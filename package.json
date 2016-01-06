@@ -1,0 +1,28 @@
+{
+  "name": "node-soap-client",
+  "version": "0.0.0",
+  "description": "Simple library for handling soap requests. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elvinx/node-soap-client.git"
+  },
+  "keywords": [
+    "node",
+    "soap",
+    "client"
+  ],
+  "author": "Elvin Valiev <elvin.valiev@gmail.com> (http://velvin.info)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elvinx/node-soap-client/issues"
+  },
+  "homepage": "https://github.com/elvinx/node-soap-client",
+  "dependencies": {
+    "ws.js": "0.0.21",
+    "xml2js": "^0.4.15"
+  }
+}

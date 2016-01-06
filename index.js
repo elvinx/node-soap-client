@@ -1,0 +1,1 @@
+exports.API = require("./lib/soap-wrapper.js").API;
